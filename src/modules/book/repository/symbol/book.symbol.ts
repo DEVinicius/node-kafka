@@ -1,0 +1,1 @@
+export const BOOK_SYMBOL_REPOSITORY = Symbol("Book_Repository");

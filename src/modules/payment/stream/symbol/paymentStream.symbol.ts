@@ -1,0 +1,1 @@
+export const PAYMENT_STREAM_SYMBOL = Symbol("PAYMENT_STREAM_SYMBOL")
